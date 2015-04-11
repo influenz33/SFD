@@ -1,1 +1,1 @@
-# My Frist Git Project
+# My First Git Project
